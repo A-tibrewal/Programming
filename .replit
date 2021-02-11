@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "node problem-1.js"
