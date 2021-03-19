@@ -1,3 +1,9 @@
+
+// print 'fizz' if div by 5
+// print 'buzz' if div by 3
+// print 'FizzBuzz' if div by 3 and 5
+// for all number 1 to n
+
 function printFZ(n) {
   function fizBuzz(n) {
   if (n % 15 === 0) {
@@ -12,4 +18,5 @@ function printFZ(n) {
     fizBuzz(i)
   }
 }
+
 printFZ(15);

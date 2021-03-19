@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "node fizz-buzz.js"
+run = "node reverse-words-in-string-2.js"
