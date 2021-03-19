@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "node problem-1.js"
+run = "node fizz-buzz.js"
