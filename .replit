@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "node reverse-words-in-string-2.js"
+run = "node array-flatten.js"
