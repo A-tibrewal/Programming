@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "node array-flatten.js"
+run = "node spiral-numbers.js"
